@@ -1,0 +1,22 @@
+{
+  "name": "w6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "ts-node ./index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.3.8",
+    "@solana/web3.js": "^1.78.4",
+    "js-md5": "^0.7.3",
+    "mz": "^2.7.0",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/mz": "^2.7.4"
+  }
+}
